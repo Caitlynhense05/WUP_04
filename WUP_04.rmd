@@ -42,8 +42,10 @@ ggplot(GSScsv, aes(x=DEGREE, y=WORDSUM))
 
 basicCN + geom_boxplot()
 ```
-### Numerical Descriptive Results
 There is a big difference in the boxplot, as the graduate group's first quartile is notably higher than the high school group's third quartile. Similarly, the Junior college group's first quartile exceeds the less than hhigh school group's third quartile. these comparisons highlightr the gap in WORDSUM scores between different education levels.
+
+### Numerical Descriptive Results
+
 
 ## Inferential Results
 
