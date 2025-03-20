@@ -71,3 +71,7 @@ The graph clearly illustrates a significant difference as both the less than hig
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+To conclude, the analysis of WORDSUM scores reveals significant disparities by educational attainment. The boxplot shows that the Graduate group has the highest median (11) and first quartile (Q1 of 10) with a narrow interquartile range (IQR of 1), indicating consistent high performance. In contrast, the Less Than High School group scores the lowest Q1 (7) and median (8), reflecting lower performance and variability. The Bachelor group shows a negative skew, while High School and Junior College groups have wider IQRs (5 and 3, respectively), indicating greater variability. Mean scores support these trends, with Graduates averaging 10.10 and Less Than High School averaging 7.75. The graph highlights significant differences, as both Less Than High School-Graduate and High School-Graduate comparisons fall below 0, emphasizing their lower performance. The p-value of 0.000236 indicates a statistically significant difference, suggesting the need for further testing to explore these disparities. Overall, higher educational attainment correlates with better WORDSUM scores and less variability.
+
+
